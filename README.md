@@ -7,7 +7,6 @@
 
 #### 3)  Given two integers a and b, find their greatest common divisor.
 
-#### 4) You are given a set of points on a line and a set of segments on a line. The goal is to compute, for
-each point, the number of segments that contain this point.
+#### 4) You are given a set of points on a line and a set of segments on a line. The goal is to compute, for each point, the number of segments that contain this point.
 
 #### 5)  Given two integers a and b, find their least common multiple.
