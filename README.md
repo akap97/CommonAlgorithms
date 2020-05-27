@@ -10,3 +10,8 @@
 #### 4) LineSweep: You are given a set of points on a line and a set of segments on a line. The goal is to compute, for each point, the number of segments that contain this point.
 
 #### 5) LCM: Given two integers a and b, find their least common multiple.
+
+#### 6) fiboPartialLastDigit: Given two non-negative integers m and n, where m ≤ n, find the last digit of the sum Fm + Fm+1 +· · · + Fn .
+
+#### 7) fiboSumSquares:  Compute the last digit of F0 2 + F1 2 + · · · + Fn 2 .
+
